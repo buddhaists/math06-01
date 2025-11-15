@@ -1,0 +1,5 @@
+{
+  "name": "引導式線段圖解題工具",
+  "description": "一個互動式教學網頁，使用引導式線段圖來幫助學生解決數學應用問題。",
+  "requestFramePermissions": []
+}
